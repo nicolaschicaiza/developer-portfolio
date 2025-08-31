@@ -41,7 +41,7 @@ git commit -m "Añadir proyecto: [nombre-del-proyecto]"
 ## 📋 Lista de Proyectos
 
 ### 🌐 Desarrollo Web
-- **[🏪 StockFlow - Inventory Management](web-development/stockflow/)** - Sistema completo de inventario con React + Node.js + PostgreSQL (*En desarrollo - Semana 1/6*)
+- **[🏪 StockFlow - Inventory Management](./web-development/stockflow/)** - Sistema completo de inventario con React + Node.js + PostgreSQL (*En desarrollo - Semana 1/6*)
 
 ### 📱 Aplicaciones Móviles
 - *Próximamente...*
@@ -87,9 +87,9 @@ git submodule update
 
 ## 📫 Contacto
 
-- **Email**: [tu-email@ejemplo.com]
-- **LinkedIn**: [tu-perfil-linkedin]
-- **GitHub**: [tu-usuario-github]
+- **Email**: [jefryn@unicauca.edu.co](jefryn@unicauca.edu.co)
+- **LinkedIn**: [jnicolaschc](https://www.linkedin.com/in/nicolas-chicaiza/)
+- **GitHub**: [nicolaschicaiza](https://github.com/nicolaschicaiza)
 
 ---
 
