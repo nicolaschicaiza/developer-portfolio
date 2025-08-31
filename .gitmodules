@@ -1,0 +1,3 @@
+[submodule "web-development/stockflow"]
+	path = web-development/stockflow
+	url = git@github.com:nicolaschicaiza/stockflow-inventory-system.git
