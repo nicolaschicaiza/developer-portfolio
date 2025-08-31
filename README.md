@@ -14,7 +14,11 @@ portafolio-proyectos/
 ├── apis-backend/          # APIs REST, GraphQL y servicios backend
 ├── tools-utilities/       # Herramientas y utilidades
 ├── game-development/      # Videojuegos y aplicaciones interactivas
-├── docs/                  # Documentación general
+├── docs/                  # Documentación general y planning
+│   ├── PORTFOLIO_OVERVIEW.md     # Overview completo del portfolio
+│   ├── PLAN_MAESTRO.md          # Plan de desarrollo de 16 semanas
+│   ├── weekly-reports/          # Reportes de progreso semanal
+│   └── templates/              # Templates reutilizables
 └── assets/               # Recursos compartidos (imágenes, videos, documentos)
 ```
 
@@ -37,7 +41,7 @@ git commit -m "Añadir proyecto: [nombre-del-proyecto]"
 ## 📋 Lista de Proyectos
 
 ### 🌐 Desarrollo Web
-- *Próximamente...*
+- **[🏪 StockFlow - Inventory Management](web-development/stockflow/)** - Sistema completo de inventario con React + Node.js + PostgreSQL (*En desarrollo - Semana 1/6*)
 
 ### 📱 Aplicaciones Móviles
 - *Próximamente...*
@@ -74,6 +78,13 @@ git submodule init
 git submodule update
 ```
 
+## 📚 Documentación Completa
+
+- **[📊 Portfolio Overview](docs/PORTFOLIO_OVERVIEW.md)** - Visión general de todos los proyectos y progreso
+- **[📋 Plan Maestro](docs/PLAN_MAESTRO.md)** - Plan detallado de desarrollo de 16 semanas
+- **[📈 Reportes Semanales](docs/weekly-reports/)** - Progreso y logros por semana
+- **[📝 Templates](docs/templates/)** - Templates para tracking y desarrollo
+
 ## 📫 Contacto
 
 - **Email**: [tu-email@ejemplo.com]
@@ -82,4 +93,5 @@ git submodule update
 
 ---
 
-*Este portafolio se actualiza constantemente con nuevos proyectos y mejoras.*
+*Este portafolio se actualiza constantemente con nuevos proyectos y mejoras.*  
+**Estado actual**: 🚀 Desarrollo Activo | **Semana**: 1/16 | **Progreso**: 6.25%
