@@ -1,0 +1,65 @@
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Archivos de configuración local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependencias y módulos
+node_modules/
+package-lock.json
+yarn.lock
+
+# Archivos de build y dist
+dist/
+build/
+out/
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos grandes que no deben subirse
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Archivos de base de datos locales
+*.sqlite
+*.db
+
+# Archivos de certificados y claves
+*.key
+*.pem
+*.crt
+*.p12
+
+# Carpetas de caché de herramientas
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
